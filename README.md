@@ -113,3 +113,4 @@ Prefer .png images for hiding larger data (lossless format).
 Use strong passwords (8+ characters, mixed symbols/numbers).
 
 Avoid hiding files larger than the image capacity (app shows a warning).
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/1eef9a5e-3fb9-4be1-85f6-6869789910e9" />
