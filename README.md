@@ -41,7 +41,9 @@ CertUtil -hashfile SecureSteganoPro_vX.X_Setup.exe SHA256
 
 Compare the hash output with the one listed in checksums.txt.
 
-**📘 How to Use**
+---
+
+## 📘 How to Use
 
 Open the app and select an image (use .png or .bmp for best results).
 
@@ -53,8 +55,13 @@ Embed and save the new stego-image.
 
 To extract, simply load the stego-image and enter the same password.
 
-**💡 Tip:** Avoid using compressed image formats (like .jpg) as they may corrupt hidden data.
-** 🛡️ Security Notice**
+---
+
+## 💡 Tip: Avoid using compressed image formats (like .jpg) as they may corrupt hidden data.
+
+---
+
+## 🛡️ Security Notice
 
 AES-GCM encryption ensures confidentiality and data integrity.
 
