@@ -39,7 +39,6 @@ To verify your file:
 ```bash
 CertUtil -hashfile SecureSteganoPro_vX.X_Setup.exe SHA256
 ```
----
 
 Compare the hash output with the one listed in checksums.txt.
 
@@ -57,10 +56,14 @@ Embed and save the new stego-image.
 
 To extract, simply load the stego-image and enter the same password.
 
+---
+
 ## 💡 Tip
 
 Avoid using compressed image formats (like .jpg) as they may corrupt hidden data.
 Use lossless formats such as .png or .bmp for reliable results.
+
+---
 
 ## 🛡️ Security Notice
 
@@ -71,6 +74,8 @@ Nonces and keys are securely generated using cryptographically safe random funct
 User passwords are never stored or transmitted.
 
 The application does not upload, collect, or share user data.
+
+---
 
 ## 📩 Support
 
