@@ -80,4 +80,4 @@ Use lossless formats such as .png or .bmp for reliable results.
 ## 📩 Support
 
 For bug reports, feedback, or feature requests, please open an issue or contact:
-📧 [sk6910895@gmial.com]
+📧 [sk6910895@gmail.com]
