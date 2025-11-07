@@ -46,15 +46,15 @@ Compare the hash output with the one listed in checksums.txt.
 
 ## 📘 How to Use
 
-Open the app and select an image (use .png or .bmp for best results).
+- Open the app and select an image (use .png or .bmp for best results).
 
-Choose a file or text message to hide.
+- Choose a file or text message to hide.
 
-Enter a password — the data will be encrypted using AES-256-GCM.
+- Enter a password — the data will be encrypted using AES-256-GCM.
 
-Embed and save the new stego-image.
+- Embed and save the new stego-image.
 
-To extract, simply load the stego-image and enter the same password.
+- To extract, simply load the stego-image and enter the same password.
 
 ---
 
@@ -67,13 +67,13 @@ Use lossless formats such as .png or .bmp for reliable results.
 
 ## 🛡️ Security Notice
 
-AES-GCM encryption ensures confidentiality and data integrity.
+- AES-GCM encryption ensures confidentiality and data integrity.
 
-Nonces and keys are securely generated using cryptographically safe random functions.
+- Nonces and keys are securely generated using cryptographically safe random functions.
 
-User passwords are never stored or transmitted.
+- User passwords are never stored or transmitted.
 
-The application does not upload, collect, or share user data.
+- The application does not upload, collect, or share user data.
 
 ---
 
