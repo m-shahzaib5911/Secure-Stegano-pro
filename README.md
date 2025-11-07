@@ -37,7 +37,7 @@ Each release includes a file named `checksums.txt` with SHA-256 hashes.
 
 To verify your file:
 ```bash
-CertUtil -hashfile SecureSteganoPro_vX.X_Setup.exe SHA256
+CertUtil -hashfile SecureSteganoPro.exe SHA256
 ```
 
 Compare the hash output with the one listed in checksums.txt.
